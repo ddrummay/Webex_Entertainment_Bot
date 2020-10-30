@@ -1,15 +1,10 @@
-# Webex-Bot-Starter
+# Webex-Bot-Starter vBond Bot
 
-### Starter kit and template for a simple Webex Teams bot
+### Template for the vBond Webex Teams bot
 
-*For a more detailed walkthorugh, see the companion blog post here: https://developer.webex.com/blog/from-zero-to-webex-teams-chatbot-in-15-minutes*
+*This Webex Bot, vBond, was created in effort to bring teams together during the COVID-19 pandemic. The vBond bot focuses on intrinsic nature of humans to socialize.*
 
-This is a very simple Webex Teams node.JS bot application that serves as a template to be further extended. It features the [webex-node-bot-framework](https://github.com/webex/webex-bot-node-framework) that simplifies development for Webex Teams bots by abstractig away some of the complexity of the API calls and registering for events.  Some parts of the app are taken from on the old [sparkbotstarter](https://github.com/valgaze/sparkbotstarter) template created by Victor Algaze. 
-
-Here is the bot in action:
-
-git
-![What we're making](./images/webexbotstarter.gif)
+This is a very simple Webex Teams node.JS vBond bot application built from a template, which is comprised of old [sparkbotstarter](https://github.com/valgaze/sparkbotstarter) template created by Victor Algaze and [webex-node-bot-framework](https://github.com/webex/webex-bot-node-framework) that simplifies development for Webex Teams bots.
 
 
 ## Prerequisites:
@@ -31,9 +26,7 @@ git
  
 4. Copy the ip address displayed in the ngrok window, ie: : https://1234.eu.ngrok.io
 
-5. Copy the `config-template.json` file to a file called `config.json`
-
-4. Edit  `config.json` with the following values:
+5. Edit  `config.json` with the following values:
 
 * token - Set this to the token for your bot that you got in step 1
 * port - Set this to the port you set when you started ngrok in step 3 (ie: 3000)
@@ -44,3 +37,5 @@ git
 6. Create a space in Webex Teams
 
 7. Add the bot (by its username) to the space in Webex Teams
+
+8. Be sure to capitalize the command words
