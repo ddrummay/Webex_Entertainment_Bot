@@ -39,3 +39,29 @@ This is a very simple Webex Teams node.JS vBond bot application built from a tem
 7. Add the bot (by its username) to the space in Webex Teams
 
 8. Be sure to capitalize the command words
+
+----
+
+## vBond Bot Illustration
+
+1. Creating a space on Webex Teams with vBond Bot
+
+![Creating Space](https://github.com/ddrummay/Webex_vBond_Bot/blob/main/images/Space1.png)
+
+
+2. vBond Bot initial conversation 
+
+![Introduction](https://github.com/ddrummay/Webex_vBond_Bot/blob/main/images/Intro.png)
+
+
+3. Interaction with vBond Bot
+
+![Interaction](https://github.com/ddrummay/Webex_vBond_Bot/blob/main/images/func1.png)
+
+
+4. Request completed
+
+![Output](https://github.com/ddrummay/Webex_vBond_Bot/blob/main/images/output1.png)
+
+*Be sure to @mention the Bot and write commands (case-sensitive)*
+
