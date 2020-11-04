@@ -1,3 +1,5 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ddrummay/Webex_vBond_Bot)
+
 # Webex-Bot-Starter vBond Bot
 
 ### Template for the vBond Webex Teams bot
